@@ -1,0 +1,27 @@
+body {
+    font-family: 'Comic Neue', cursive;
+  }
+
+.inputName{
+    padding-bottom: 3px;
+    display:inline-block;
+}
+.Input{
+  width: 500px;
+  margin-bottom: 8px;  
+}
+.legendName{
+    margin-bottom: 5px;
+}
+
+.radioBlock{
+    margin-top: 10px;
+}
+.radioElements{
+    padding: 15px;
+}
+
+.InputArea{
+    width: 500px;
+    height: 100px;
+}
